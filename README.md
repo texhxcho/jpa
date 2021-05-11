@@ -3,6 +3,18 @@
 complieJava 를 실행후 스프링부트 시작.
 ![img.png](img.png)
 
+### 실행 클래스
+
+~~~
+JpaExampleApplication.java
+~~~
+
+### 테스트 실행
+
+~~~
+SubscriptionServiceTest.java
+~~~
+
 # 로컬 docker mysql, redis 구동
 
 <strong>로컬 mysql 과 로컬 redis 를 사용하지 않는다면 아래 설정을 하지 않아도 됩니다.</strong>
